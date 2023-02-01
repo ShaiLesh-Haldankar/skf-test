@@ -8,7 +8,7 @@ import "node_modules/swiper/swiper-bundle.min.css";
 import "tiny-slider/dist/tiny-slider.css";
 import 'react-toastify/dist/ReactToastify.css';
 
-// extra css
+// extra csss
 import "@/styles/globals.css";
 import "@/styles/halpes.css";
 import "@/styles/halpes-responsive.css";

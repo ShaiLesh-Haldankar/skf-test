@@ -3,7 +3,7 @@ import image from "@/images/resources/about-page-img-1.jpg";
 import React from "react";
 import { Col, Container, Image, Row } from "react-bootstrap";
 import AboutProgressbar from "./AboutProgressbar";
-
+// dedede
 const AboutPage = () => {
   return (
     <section className="about-page">
