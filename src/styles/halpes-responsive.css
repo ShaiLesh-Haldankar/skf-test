@@ -1363,6 +1363,10 @@
     float: none;
     max-width: none;
   }
+  .main-header-two__logo img {
+    max-width: 100px;
+
+  }
 
   .main-menu-three__inner-upper {
     width: 34%;
@@ -1411,6 +1415,9 @@
     width: 100%;
     float: none;
     max-width: none;
+  }
+  .main-header-two__logo img {
+max-width: 100px;
   }
 
   .main-menu__right-social {

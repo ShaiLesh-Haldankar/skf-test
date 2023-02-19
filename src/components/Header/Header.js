@@ -5,13 +5,8 @@ const HeaderTwo = dynamic(() => import("./HeaderTwo"));
 const HeaderThree = dynamic(() => import("./HeaderThree"));
 
 const Header = ({ pageTitle }) => {
-  return pageTitle === "Home Two" ? (
-    <HeaderTwo />
-  ) : pageTitle === "Home Three" ? (
-    <HeaderThree />
-  ) : (
-    <HeaderOne />
-  );
+  return  (
+    <HeaderTwo />)
 };
 
 export default Header;

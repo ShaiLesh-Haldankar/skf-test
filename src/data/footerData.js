@@ -1,5 +1,5 @@
 import bg from "@/images/backgrounds/footer-bg.jpg";
-import footerImage from "@/images/resources/footer-logo.jpg";
+import footerImage from "@/images/resources/logo-1.jpg";
 import { contact } from "./contactData";
 
 const footerData = {

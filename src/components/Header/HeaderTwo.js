@@ -1,7 +1,7 @@
 import { useRootContext } from "@/context/context";
 import navItems, { social } from "@/data/NavItems";
 import useScroll from "@/hooks/useScroll";
-import logo from "@/images/resources/logo-2.png";
+import logo from "@/images/skf.jpg";
 import Link from "next/link";
 import React from "react";
 import { Container, Image } from "react-bootstrap";

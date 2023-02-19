@@ -66,8 +66,8 @@ const navItems = [
     name: "Events",
     href: "/events",
     subNavItems: [
-      // { id: 1, name: "Events", href: "/events" },
-      // { id: 2, name: "Event Details", href: "/event-details" },
+      { id: 1, name: "Events", href: "/events" },
+      { id: 2, name: "Event Details", href: "/event-details" },
     ],
   },
   // {

@@ -22,8 +22,9 @@
   --thm-reey-font: "reeyregular";
   --thm-gray: #707876;
   --thm-gray-rgb: 112, 120, 118;
-  --thm-primary: #15c8a0;
-  --thm-primary-rgb: 21, 200, 160;
+  --thm-primary: #30e3df;
+  /* --thm-primary-rgb: 21, 200, 160; */
+  --thm-primary-rgb: 48, 227, 223;
   --thm-black: #1f2230;
   --thm-black-rgb: 31, 34, 48;
 }
@@ -730,11 +731,18 @@ h6 {
 .main-header-two__logo {
   position: relative;
   display: block;
-  max-width: 120px;
+  max-width: 100px;
   float: left;
   text-align: center;
   padding-top: 25px;
   padding-bottom: 63px;
+}
+
+.main-header-two__logo a  {
+  width: 100%;
+}
+.main-header-two__logo a img {
+  width: 100%;
 }
 
 .main-header-two__contact-info {
@@ -3615,6 +3623,15 @@ h6 {
 .site-footer__bottom-logo-social {
   display: flex;
   align-items: center;
+}
+.site-footer__bottom-logo{
+  max-width: 90px;
+}
+.site-footer__bottom-logo a img{
+  width: 100%;
+}
+.site-footer__bottom-logo a{
+  width: 100%;
 }
 
 .site-footer__bottom-social {
